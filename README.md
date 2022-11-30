@@ -4,7 +4,7 @@ In this project, the text analysis and music generation methods are combined to 
 an emotion-conditioned text-to-music system, aiming to discover the emotional connection
 between text and music. A text emotion analysis module developed with traditional natural
 language processing techniques and two emotion-conditioned music generation methods are
-presented. Both music generation models - baseline model EMOPIA
+presented. Both music generation models - EMOPIA (baseline)
 and Artificial Musical Intelligence (AMI) are transformer-based models with an emotion token
 introduced for emotional information processing. Additionally, AMI applies an instrument
 token and two structural tokens to generate multi-instruments music with a consistent
