@@ -1,9 +1,4 @@
-I’ve attached the AMI music generation code below. 
+Two approaches were used to generate emotion-conditioned music.
 
-Take a look at “test_fastmidi.py” to see how I converted MIDI data to a list of music tokens.
-
-“ami_prepare.py” prepares data for training.
-“ami_train.py” trains a music generation model.
-“ami_generate.py” generates new music using the trained model.
-
-
+EMOPIA - baseline
+AMI - improved method
