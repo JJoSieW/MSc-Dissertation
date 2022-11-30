@@ -1,4 +1,1 @@
-Two approaches were used to generate emotion-conditioned music.
 
-EMOPIA - baseline
-AMI - improved method
